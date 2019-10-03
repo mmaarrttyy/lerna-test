@@ -1,9 +1,9 @@
 {
   "name": "@my-scope-name/my-design-system-form",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "@my-scope-name/my-design-system-button": "^0.0.2",
+    "@my-scope-name/my-design-system-button": "^0.0.1",
     "husky": "^3.0.8"
   },
   "devDependencies": {
